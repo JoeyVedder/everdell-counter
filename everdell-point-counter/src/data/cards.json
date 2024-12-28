@@ -1,0 +1,24 @@
+[
+    {
+      "name": "InnKeeper",
+      "type": "critter",
+      "points": 1,
+      "specialAbility": "common",
+      "eventPoints": 0
+    },
+    {
+      "name": "King",
+      "type": "critter",
+      "points": 4,
+      "specialAbility": "",
+      "eventPoints": 1
+    },
+    {
+      "name": "Harvest Festival",
+      "type": "event",
+      "points": 0,
+      "specialAbility": "",
+      "eventPoints": 5
+    }
+  ]
+  

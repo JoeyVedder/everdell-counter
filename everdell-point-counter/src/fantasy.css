@@ -1,0 +1,44 @@
+body {
+    background-color: #F0F8FF;
+    font-family: 'Georgia', serif;
+    color: #2e4a1f;
+    text-align: center;
+  }
+  
+  h1, h2 {
+    color: #006400;
+  }
+  
+  input[type="text"] {
+    padding: 8px;
+    margin: 10px;
+    border: 2px solid #8b4513;
+    border-radius: 5px;
+    background-color: #f4f4f4;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #8b4513;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #6f2a1d;
+  }
+  
+  .card-input-container {
+    margin: 20px;
+  }
+  
+  .points-display {
+    background-color: #98fb98;
+    border-radius: 8px;
+    padding: 20px;
+    margin-top: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
